@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "helps you find that perfect match !",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosemcclain024/friend-finder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Rose McClain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosemcclain024/friend-finder/issues"
+  },
+  "homepage": "https://github.com/rosemcclain024/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
